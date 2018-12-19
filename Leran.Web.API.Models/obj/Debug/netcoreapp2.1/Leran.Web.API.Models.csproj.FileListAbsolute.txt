@@ -1,0 +1,9 @@
+C:\belajar\Leran.Web.API.Models\bin\Debug\netcoreapp2.1\Leran.Web.API.Models.deps.json
+C:\belajar\Leran.Web.API.Models\bin\Debug\netcoreapp2.1\Leran.Web.API.Models.dll
+C:\belajar\Leran.Web.API.Models\bin\Debug\netcoreapp2.1\Leran.Web.API.Models.pdb
+C:\belajar\Leran.Web.API.Models\obj\Debug\netcoreapp2.1\Leran.Web.API.Models.csprojAssemblyReference.cache
+C:\belajar\Leran.Web.API.Models\obj\Debug\netcoreapp2.1\Leran.Web.API.Models.csproj.CoreCompileInputs.cache
+C:\belajar\Leran.Web.API.Models\obj\Debug\netcoreapp2.1\Leran.Web.API.Models.AssemblyInfoInputs.cache
+C:\belajar\Leran.Web.API.Models\obj\Debug\netcoreapp2.1\Leran.Web.API.Models.AssemblyInfo.cs
+C:\belajar\Leran.Web.API.Models\obj\Debug\netcoreapp2.1\Leran.Web.API.Models.dll
+C:\belajar\Leran.Web.API.Models\obj\Debug\netcoreapp2.1\Leran.Web.API.Models.pdb

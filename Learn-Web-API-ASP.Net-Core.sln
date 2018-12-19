@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn-Web-API-ASP.Net-Core", "Learn-Web-API-ASP.Net-Core\Learn-Web-API-ASP.Net-Core.csproj", "{131E97E8-0F3C-44D3-984D-7BF08DB4B8FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leran.Web.API.Models", "Leran.Web.API.Models\Leran.Web.API.Models.csproj", "{BABF6D9F-C25E-4A04-899A-8F1E9E5705EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131E97E8-0F3C-44D3-984D-7BF08DB4B8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131E97E8-0F3C-44D3-984D-7BF08DB4B8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131E97E8-0F3C-44D3-984D-7BF08DB4B8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131E97E8-0F3C-44D3-984D-7BF08DB4B8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABF6D9F-C25E-4A04-899A-8F1E9E5705EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABF6D9F-C25E-4A04-899A-8F1E9E5705EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABF6D9F-C25E-4A04-899A-8F1E9E5705EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABF6D9F-C25E-4A04-899A-8F1E9E5705EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5C77BF-4E8C-4BF5-BE0B-8331DEB6E702}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\belajar\Learn-Web-API-ASP.Net-Core\bin\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.deps.json
+C:\belajar\Learn-Web-API-ASP.Net-Core\bin\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.runtimeconfig.json
+C:\belajar\Learn-Web-API-ASP.Net-Core\bin\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.runtimeconfig.dev.json
+C:\belajar\Learn-Web-API-ASP.Net-Core\bin\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.dll
+C:\belajar\Learn-Web-API-ASP.Net-Core\bin\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.pdb
+C:\belajar\Learn-Web-API-ASP.Net-Core\obj\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.csprojAssemblyReference.cache
+C:\belajar\Learn-Web-API-ASP.Net-Core\obj\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.csproj.CoreCompileInputs.cache
+C:\belajar\Learn-Web-API-ASP.Net-Core\obj\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.RazorAssemblyInfo.cache
+C:\belajar\Learn-Web-API-ASP.Net-Core\obj\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.RazorAssemblyInfo.cs
+C:\belajar\Learn-Web-API-ASP.Net-Core\obj\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.AssemblyInfoInputs.cache
+C:\belajar\Learn-Web-API-ASP.Net-Core\obj\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.AssemblyInfo.cs
+C:\belajar\Learn-Web-API-ASP.Net-Core\obj\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.RazorTargetAssemblyInfo.cache
+C:\belajar\Learn-Web-API-ASP.Net-Core\obj\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.dll
+C:\belajar\Learn-Web-API-ASP.Net-Core\obj\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.pdb
+C:\belajar\Learn-Web-API-ASP.Net-Core\bin\Debug\netcoreapp2.1\Leran.Web.API.Models.dll
+C:\belajar\Learn-Web-API-ASP.Net-Core\bin\Debug\netcoreapp2.1\Leran.Web.API.Models.pdb
+C:\belajar\Learn-Web-API-ASP.Net-Core\obj\Debug\netcoreapp2.1\Learn-Web-API-ASP.Net-Core.csproj.CopyComplete
